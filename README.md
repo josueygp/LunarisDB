@@ -1,5 +1,7 @@
 # LunarisDB
 LunarisDB, manejador SQLite3, crea una base de datos .db, .sqlite3 o conecta tu base de datos. Hecho con Python y Flet.
+![icon](https://github.com/user-attachments/assets/d1c73aa4-abfd-4364-8720-cc76fd3dba0b)
+
 ![image](https://github.com/user-attachments/assets/5ba3cd3c-1bd8-492b-8f02-1eb7598b4e9c)
 
 
