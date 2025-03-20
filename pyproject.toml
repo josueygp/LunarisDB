@@ -1,0 +1,22 @@
+[project]
+name = "LunarisDB"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+    { name = "Josue Yael Guerrero Priego", email = "josueygp@gmail.com" }
+]
+dependencies = [
+  "flet==0.27.6",
+  "graphviz==0.20.3"
+]
+
+[tool.flet]
+org = "com.mycompany"
+product = "LunarisDB"
+company = "Josue Yael Guerrero Priego"
+copyright = "Copyright (C) 2025 by Josue Yael Guerrero Priego"
+
+[tool.flet.app]
+path = "src"
